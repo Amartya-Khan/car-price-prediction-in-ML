@@ -1,6 +1,9 @@
 # car-price-prediction-in-ML
 Comparative study of accuracy of ML models in car price prediction.
 
+#### Alternate link to open file:
+https://nbviewer.jupyter.org/github/Amartya-Khan/car-price-prediction-in-ML/blob/master/Major%20Project-%20Amartya.ipynb
+
 # Problem Statement: 
 <br/>Predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
